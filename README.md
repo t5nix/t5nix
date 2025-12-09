@@ -7,7 +7,7 @@ I also enjoy working on electronics and embedded systems.
 ## Skills
 - **Languages**: C, Python  
 - **Tools**: Linux, Bash  
-- **Interests**: Pentesting, Red Teaming, Network Security, Reverse Engineering
+- **Interests**: Pentesting, Network, Binary Exploitation
 
 ## Profiles
 - TryHackMe: [https://tryhackme.com/p/t5nix](https://tryhackme.com/p/t5nix)  
