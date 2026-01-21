@@ -6,7 +6,6 @@ I also enjoy working on electronics and embedded systems.
 
 ## Skills
 - **Languages**: C, Python  
-- **Tools**: Linux, Bash  
 - **Interests**: Pentesting, Network, Binary Exploitation
 
 ## Profiles
